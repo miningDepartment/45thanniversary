@@ -316,9 +316,9 @@ h1, h2, h3, h4, h5, h6 {
   width: 150px;
 }
 .main__links .main__link.bghp {
-  background-color: #81003f;
-  background-image: url("http://bmci.by/local/templates/html_dev/images/logo.png");
-  background-size: 95% auto;
+  background-color: #741254;
+  background-image: url('https://export.by/images/uploads/old/logo/thumb/1000_230/5337_55_logo.gif');
+  background-size: auto 80%;
 }
 .main__links .main__link.bk {
   background-color: #f2f2f2;
@@ -327,8 +327,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .main__links .main__link.shss {
   background-color: #001a2e;
-  background-image: url("http://www.shahta.by/local/templates/.default/images/logo.png");
-  background-size: 95% auto;
+  background-image: url('https://rabota.by/employer-logo/2249504.png');
+  background-size: auto 95%;
 }
 .main__links .main__link.sipr {
   background-color: #1a1a1a;
